@@ -9,3 +9,7 @@ https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenael
 project test	
 https://s.makkok.com/ar
 https://www.furniture-app.com/
+
+
+Applications
+laragon switch php versions
